@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed Antar! 👋
+# Hi there, I'm Muhamed Antar! 👋
 
 ### 👨‍💻 CS Student | Cybersecurity Enthusiast | Linux User
 
