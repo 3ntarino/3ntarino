@@ -1,9 +1,14 @@
-# Hi there, I'm Muhamed Antar! 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=D2A306&center=true&vCenter=true&random=false&width=800&lines=Hi+There+%F0%9F%91%8B;I'm+Muhamed+Antar;CS+Student+@+Suez+Canal+University;" alt="Typing SVG" />
+  </a>
+</p>
 
 ### 👨‍💻 CS Student | Cybersecurity Enthusiast | Linux User
 
 I am a passionate Computer Science student aiming to specialize in Cybersecurity. I love exploring Linux systems (Fedora user 🐧) and building secure software.
 
+- 🏫 I am a student at <a href="https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa">`The Faculty of Computers & Informatics`</a> at <a class ="mylink" href="https://suez.edu.eg/ar/">`Suez Canal University`</a>.
 - 🌱 I’m currently learning **IT & Network Security**
 - 🚩 Active **CTF Player** (Capture The Flag)
 
