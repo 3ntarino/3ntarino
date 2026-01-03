@@ -10,7 +10,11 @@ I am a passionate Computer Science student aiming to specialize in Cybersecurity
 
 - 🏫 I am a student at <a href="https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa">`The Faculty of Computers & Informatics`</a> at <a class ="mylink" href="https://suez.edu.eg/ar/">`Suez Canal University`</a>.
 - 🌱 I’m currently learning **IT & Network Security**
-- 🚩 Active **CTF Player** (Capture The Flag)
+- 🚩 Active **CTF Player** (Capture The Flag):
+  <br>
+  <a href="https://play.picoctf.org/users/muhamed3ntarino" target="_blank">
+    <img src="https://img.shields.io/badge/picoCTF-View_Profile-red?style=for-the-badge&logo=capture-the-flag&logoColor=white" alt="picoCTF Profile"/>
+  </a>
 
 ---
 
